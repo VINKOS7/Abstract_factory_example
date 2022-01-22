@@ -1,0 +1,16 @@
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\bin\Debug\net5.0\AbstractFabric.exe
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\bin\Debug\net5.0\AbstractFabric.deps.json
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\bin\Debug\net5.0\AbstractFabric.runtimeconfig.json
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\bin\Debug\net5.0\AbstractFabric.runtimeconfig.dev.json
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\bin\Debug\net5.0\AbstractFabric.dll
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\bin\Debug\net5.0\ref\AbstractFabric.dll
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\bin\Debug\net5.0\AbstractFabric.pdb
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\obj\Debug\net5.0\AbstractFabric.csprojAssemblyReference.cache
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\obj\Debug\net5.0\AbstractFabric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\obj\Debug\net5.0\AbstractFabric.AssemblyInfoInputs.cache
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\obj\Debug\net5.0\AbstractFabric.AssemblyInfo.cs
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\obj\Debug\net5.0\AbstractFabric.csproj.CoreCompileInputs.cache
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\obj\Debug\net5.0\AbstractFabric.dll
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\obj\Debug\net5.0\ref\AbstractFabric.dll
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\obj\Debug\net5.0\AbstractFabric.pdb
+C:\Users\VINKOS\source\repos\AbstractFabric\AbstractFabric\obj\Debug\net5.0\AbstractFabric.genruntimeconfig.cache
